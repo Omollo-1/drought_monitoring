@@ -1,0 +1,87 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>2000-12</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.26204261183739</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.9098984003067</MDI>
+      <MDI key="STATISTICS_MEAN">0.57992814201862</MDI>
+      <MDI key="STATISTICS_STDDEV">0.13040322847501</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>2001-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>2002-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>2003-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>2004-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>2005-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>2006-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>2007-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>2008-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>2009-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>2010-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>2011-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>2012-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>2013-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>2014-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>2015-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>2016-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>2017-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>2018-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>2019-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>2020-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>2021-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>2022-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>2023-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>2024-12</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>2025-12</Description>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,6 @@
+.venv/
+.venv-*/
+.kilo/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
